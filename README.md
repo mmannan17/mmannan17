@@ -48,7 +48,7 @@
   </a>
 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FC%252B%252B&psig=AOvVaw2rlRtzraH1X8sYDm3Pzc4L&ust=1708039041679000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjU87P7q4QDFQAAAAAdAAAAABAE" alt="C++ Logo" width="40" height="
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FC%252B%252B&psig=AOvVaw2rlRtzraH1X8sYDm3Pzc4L&ust=1708039041679000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjU87P7q4QDFQAAAAAdAAAAABAE](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg" alt="C++ Logo" width="40" height="
     </a>
 
 
