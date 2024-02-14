@@ -45,7 +45,8 @@
 
 
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_C_sharp.svg&psig=AOvVaw1G7BDsnKXT96796M74-Cua&ust=1708039803965000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDflp_-q4QDFQAAAAAdAAAAABAE" alt="C# Logo" width="40" height="40"/>
+    <img src="![image](https://github.com/mmannan17/mmannan17/assets/125610630/9c28d0d0-d505-4eaa-925d-30a17811da4b)
+" alt="C# Logo" width="40" height="40"/>
   </a>
 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
