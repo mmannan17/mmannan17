@@ -43,12 +43,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="40" height="40"/>
   </a>
 
-
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/mmannan17/mmannan17/assets/125610630/9c28d0d0-d505-4eaa-925d-30a17811da4b)
-" alt="C# Logo" width="40" height="40"/>
-  </a>
-
   <a href="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40"/>
   </a>
