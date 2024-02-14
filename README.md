@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Mustafa </h1>
-<h1 align="center">Welcome to my Github👋</h1>
+<h1 align="center">Hi, I'm Mustafa 👋 </h1>
+
 
 - I'm an aspiring Software Engineer
 - I like working on complex problems that benefit the world
@@ -9,6 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
+  
 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -36,5 +37,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+
+  <a href="https://commons.wikimedia.org/wiki/File:C_Logo.png" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="40" height="40"/>
+  </a>
+
   
 </p>
