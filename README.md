@@ -43,9 +43,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="40" height="40"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40"/>
-  </a>
+   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="40" height="40"/>
+   </a>
 
 
 
