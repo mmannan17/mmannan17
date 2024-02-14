@@ -50,7 +50,7 @@
   </a>
 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw0k1fgevctCa8QKsO7f0fPw&ust=1708040643037000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOist6-BrIQDFQAAAAAdAAAAABAE" alt="C++ Logo" width="40" height="40"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fisocpp%2Flogos&psig=AOvVaw1bFQ-PSAOC-UJNk5il6n4g&ust=1708040699325000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiEmMqBrIQDFQAAAAAdAAAAABAE" alt="C++ Logo" width="40" height="40"/>
   </a>
 
 
