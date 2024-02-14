@@ -42,5 +42,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="40" height="40"/>
   </a>
 
+  <a href="https://www.nicepng.com/ourpic/u2y3w7a9i1o0r5r5_c-logo-c-programming-language-logo/" target="_blank" rel="noreferrer">
+    <img src="https://www.nicepng.com/png/full/213-2133435_c-logo-c-programming-language-logo.png" alt="C Programming Language logo" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.nicepng.com/ourpic/u2y3w7a9i1o0r5r5_c-logo-c-programming-language-logo/" target="_blank" rel="noreferrer">
+    <img src="https://www.nicepng.com/png/full/213-2133435_c-logo-c-programming-language-logo.png" alt="C Programming Language logo" width="40" height="40"/>
+  </a>
+
+
   
 </p>
