@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
-  <a href="https://commons.wikimedia.org/wiki/File:C_Logo.png" target="_blank" rel="noreferrer">
+  <a href="[https://commons.wikimedia.org/wiki/File:C_Logo.png](https://www.learn-c.org/)" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="40" height="40"/>
   </a>
 
