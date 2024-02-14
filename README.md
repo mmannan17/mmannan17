@@ -38,18 +38,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 
-  <a href="[https://commons.wikimedia.org/wiki/File:C_Logo.png](https://www.learn-c.org/)" target="_blank" rel="noreferrer">
+  
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="40" height="40"/>
   </a>
 
 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AC_Logo.png&psig=AOvVaw1qmiF_zNVqeDSghznDh-YC&ust=1708039358562000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjUv8r8q4QDFQAAAAAdAAAAABAE)" alt="C++ Logo" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="40" height="40"/>
   </a>
-
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FC%252B%252B&psig=AOvVaw2rlRtzraH1X8sYDm3Pzc4L&ust=1708039041679000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjU87P7q4QDFQAAAAAdAAAAABAE](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg" alt="C++ Logo" width="40" height="
-    </a>
 
 
  
