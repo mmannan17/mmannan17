@@ -44,7 +44,7 @@
 
 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++ Logo" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AC_Logo.png&psig=AOvVaw1qmiF_zNVqeDSghznDh-YC&ust=1708039358562000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjUv8r8q4QDFQAAAAAdAAAAABAE)" alt="C++ Logo" width="40" height="40"/>
   </a>
 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
