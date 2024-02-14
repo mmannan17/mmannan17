@@ -49,9 +49,10 @@
 " alt="C# Logo" width="40" height="40"/>
   </a>
 
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fisocpp%2Flogos&psig=AOvVaw1bFQ-PSAOC-UJNk5il6n4g&ust=1708040699325000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiEmMqBrIQDFQAAAAAdAAAAABAE" alt="C++ Logo" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="40" height="40"/>
   </a>
+
 
 
  
