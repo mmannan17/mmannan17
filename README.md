@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mustafa 👋 </h1>
 
 
-- I'm an aspiring Machine Learning Engineer
+- I'm Interested in AI/ML and how it can be applied to real world systems and problems
 - I like working on complex problems that benefit the world
 - I'm a huge Soccer fan
 - How to reach me: Mustafa.mannan.official@gmail.com
